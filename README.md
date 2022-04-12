@@ -1,6 +1,6 @@
 ## Olá!
 - 🔭 Hoje trabalho nas áreas de Marketing e Educação
-- 🌱 Estudo JavaScript
+- 🌱 Estudo JavaScript e Python
 
 <div align="center">
   <a href="https://github.com/celsopereirajr">
